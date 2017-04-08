@@ -1,9 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KARLAVAZQUEZ.ME" resolutions="1x" timestamp="1491691911537">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KARLAVAZQUEZ.ME" resolutions="1x" timestamp="1491693335663">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4083713173" ref="index"/>
+    <file name="index.css" crc="476857318" ref="index"/>
     <file name="contact.css" crc="4175573916" ref="contact"/>
     <file name="about.css" crc="297857566" ref="about"/>
+    <file name="nomq_index.css" crc="504858000" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>contact:tablet>index:tablet>about:tablet>contact:index:contact:about"/>
@@ -14,6 +15,7 @@
     <file name="require.js" crc="4234670167" ref="phone>index:phone>about:phone>contact:tablet>index:tablet>about:tablet>contact:index:contact:about"/>
     <file name="jquery.musemenu.js" crc="38860304" ref="index:contact:about:phone>index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contact:about:phone>index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -29,13 +31,14 @@
     <folder name="css">
       <file name="about.css" crc="346686993" ref="phone>about"/>
       <file name="contact.css" crc="346686993" ref="phone>contact"/>
-      <file name="index.css" crc="3945193732" ref="phone>index"/>
+      <file name="index.css" crc="3982249859" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="234199838" seo="true" mt="1491691893107" redirect="true"/>
+    <file name="index.html" crc="3928168858" seo="true" mt="1491693318017" redirect="true"/>
     <file name="about.html" crc="245665801" seo="true" mt="1491690900623" redirect="false"/>
     <file name="contact.html" crc="3793616427" seo="true" mt="1491690900708" redirect="false"/>
   </folder>
-  <file name="index.html" crc="297796073" seo="true" mt="1491691619292" redirect="true"/>
+  <file name="index.html" crc="4055178766" seo="true" mt="1491693271646" redirect="true"/>
   <file name="contact.html" crc="314747454" seo="true" mt="1491690900790" redirect="true"/>
   <file name="about.html" crc="3963654547" seo="true" mt="1491690900790" redirect="true"/>
 </manifest>
