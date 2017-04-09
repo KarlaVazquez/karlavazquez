@@ -1,45 +1,14 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="false" exportTarget="other" domain="KARLAVAZQUEZ.ME" resolutions="1x" timestamp="1491695813654">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="karlavazquez.me" resolutions="1x" timestamp="1491696345177">
   <folder name="css">
-    <file name="site_global.css" crc="3882043294"/>
-    <file name="index.css" crc="162195802" ref="index"/>
-    <file name="nomq_index.css" crc="203202127" ref="index"/>
-    <file name="contact.css" crc="25309356" ref="contact"/>
-    <file name="about.css" crc="385424703" ref="about"/>
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="332400921" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>contact:tablet>index:tablet>about:tablet>contact:index:contact:about"/>
-    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>about:phone>contact:tablet>index:tablet>about:tablet>contact:index:contact:about"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:phone>contact:tablet>index:tablet>about:tablet>contact:index:contact:about"/>
-    <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>about:phone>contact:tablet>index:tablet>about:tablet>contact:index:contact:about"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>about:phone>contact:tablet>index:tablet>about:tablet>contact"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="phone>index:index:contact:about"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>contact:tablet>index:tablet>about:tablet>contact:index:contact:about"/>
-    <file name="require.js" crc="4234670167" ref="phone>index:phone>about:phone>contact:tablet>index:tablet>about:tablet>contact:index:contact:about"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
-  <folder name="tablet">
-    <folder name="css">
-      <file name="index.css" crc="507054851" ref="tablet>index"/>
-      <file name="contact.css" crc="507054851" ref="tablet>contact"/>
-      <file name="nomq_contact.css" crc="3824530138" ref="tablet>contact"/>
-      <file name="about.css" crc="507054851" ref="tablet>about"/>
-    </folder>
-    <file name="index.html" crc="167420831" seo="true" mt="1491690900201" redirect="false"/>
-    <file name="about.html" crc="317430791" seo="true" mt="1491690900201" redirect="false"/>
-    <file name="contact.html" crc="496989859" seo="true" mt="1491690900201" redirect="false"/>
-  </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="about.css" crc="346686993" ref="phone>about"/>
-      <file name="contact.css" crc="346686993" ref="phone>contact"/>
-      <file name="nomq_contact.css" crc="3824530138" ref="phone>contact"/>
-      <file name="index.css" crc="3982249859" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="452592327" seo="true" mt="1491695636184" redirect="true"/>
-    <file name="about.html" crc="254497447" seo="true" mt="1491690885775" redirect="false"/>
-    <file name="contact.html" crc="3854786185" seo="true" mt="1491690885775" redirect="false"/>
-  </folder>
-  <file name="index.html" crc="200839516" seo="true" mt="1491695725891" redirect="true"/>
-  <file name="contact.html" crc="3823392769" seo="true" mt="1491695636187" redirect="true"/>
-  <file name="about.html" crc="4154485705" seo="true" mt="1491695636203" redirect="true"/>
+  <file name="index.html" crc="4193447223" seo="true" mt="1491696285227" redirect="true"/>
 </manifest>
