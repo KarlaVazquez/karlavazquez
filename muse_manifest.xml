@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="karlavazquez.me" resolutions="1x" timestamp="1491696345177">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="karlavazquez.me" resolutions="1x" timestamp="1491696421761">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="332400921" ref="index"/>
@@ -10,5 +10,5 @@
     <file name="museconfig.js" crc="4152223963" ref="index"/>
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
-  <file name="index.html" crc="4193447223" seo="true" mt="1491696285227" redirect="true"/>
+  <file name="index.html" crc="447712520" seo="true" mt="1491696285227" redirect="true"/>
 </manifest>
