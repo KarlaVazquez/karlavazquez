@@ -1,14 +1,23 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="karlavazquez.me" resolutions="1x" timestamp="1491696421761">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="karlavazquez.me" resolutions="1x" timestamp="1491703332824">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="332400921" ref="index"/>
+    <file name="site_global.css" crc="3813462418"/>
+    <file name="work.css" crc="4056587686" ref="work"/>
+    <file name="contact.css" crc="3854840558" ref="contact"/>
+    <file name="nomq_contact.css" crc="4205341471" ref="contact"/>
+    <file name="aboutt.css" crc="244341410" ref="aboutt"/>
+    <file name="index.css" crc="3775788439" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4152223963" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:aboutt:work:contact"/>
+    <file name="museutils.js" crc="4232573551" ref="index:aboutt:work:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:aboutt:work:contact"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:aboutt:work:contact"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:aboutt:work:contact"/>
+    <file name="require.js" crc="4234670167" ref="index:aboutt:work:contact"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="contact"/>
   </folder>
-  <file name="index.html" crc="447712520" seo="true" mt="1491696285227" redirect="true"/>
+  <file name="index.html" crc="4159609774" seo="true" mt="1491702822751" redirect="true"/>
+  <file name="aboutt.html" crc="126717264" seo="true" mt="1491702829446" redirect="true"/>
+  <file name="work.html" crc="4179547584" seo="true" mt="1491702900423" redirect="true"/>
+  <file name="contact.html" crc="3947566188" seo="true" mt="1491703303891" redirect="true"/>
 </manifest>
