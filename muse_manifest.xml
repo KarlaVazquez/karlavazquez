@@ -1,15 +1,18 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="karlavazquez.me" resolutions="1x" timestamp="1493271902384">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="karlavazquez.me" resolutions="1x" timestamp="1493272046522">
+  <folder name="assets">
+    <file name="resume.pdf" crc="380571767" seo="true" mt="1492377565000"/>
+  </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4203796986" ref="index"/>
+    <file name="favicon.ico" crc="4203796986" ref="index:work"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3759685846"/>
-    <file name="work.css" crc="128492739" ref="work"/>
+    <file name="work.css" crc="16962870" ref="work"/>
     <file name="contact.css" crc="4036985839" ref="contact"/>
     <file name="nomq_contact.css" crc="415375388" ref="contact"/>
     <file name="aboutt.css" crc="3797172767" ref="aboutt"/>
     <file name="index.css" crc="215162564" ref="index"/>
-    <file name="nomq_work.css" crc="312537497" ref="work"/>
+    <file name="nomq_work.css" crc="47225774" ref="work"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:aboutt:work:contact"/>
@@ -22,6 +25,6 @@
   </folder>
   <file name="index.html" crc="530014018" seo="true" mt="1493271668681" redirect="true"/>
   <file name="aboutt.html" crc="3811044900" seo="true" mt="1493271545300" redirect="true"/>
-  <file name="work.html" crc="353937670" seo="true" mt="1493271618325" redirect="true"/>
+  <file name="work.html" crc="150202062" seo="true" mt="1493272034164" redirect="true"/>
   <file name="contact.html" crc="4048427471" seo="true" mt="1493271575734" redirect="true"/>
 </manifest>
