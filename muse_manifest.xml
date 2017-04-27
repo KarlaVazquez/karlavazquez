@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="karlavazquez.me" resolutions="1x" timestamp="1493271838379">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="karlavazquez.me" resolutions="1x" timestamp="1493271902384">
   <folder name="images">
     <file name="favicon.ico" crc="4203796986" ref="index"/>
   </folder>
